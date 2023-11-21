@@ -11,11 +11,16 @@ namespace git_opperation
         static void Main(string[] args)
         {
             Console.WriteLine(add(2,4));
+            Console.WriteLine();
         }
         public static int add(int a, int b)
         {
             int c =0;
            return  c = a + b;
+        }
+        public static int multiple(int a, int b)
+        {
+            return a * b;
         }
     }
 }

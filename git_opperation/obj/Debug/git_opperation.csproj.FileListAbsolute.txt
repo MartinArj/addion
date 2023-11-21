@@ -1,0 +1,6 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\git_opperation\git_opperation\bin\Debug\git_opperation.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\git_opperation\git_opperation\bin\Debug\git_opperation.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\git_opperation\git_opperation\bin\Debug\git_opperation.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\git_opperation\git_opperation\obj\Debug\git_opperation.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\git_opperation\git_opperation\obj\Debug\git_opperation.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\git_opperation\git_opperation\obj\Debug\git_opperation.pdb

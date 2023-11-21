@@ -10,6 +10,12 @@ namespace git_opperation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(add(2,4));
+        }
+        public static int add(int a, int b)
+        {
+            int c =0;
+           return  c = a + b;
         }
     }
 }
